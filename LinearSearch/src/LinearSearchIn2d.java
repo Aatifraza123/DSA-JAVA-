@@ -15,7 +15,7 @@ public class LinearSearchIn2d {
         int[][] arr = {{1,5,3,6,7,},
                 {4,6,2,1,7,},
                 {8,3,1,8,4}};
-        int target = 1;
+        int target = 8;
         System.out.println(Arrays.toString(linearIn2d(arr,target)));
     }
 }
